@@ -18,3 +18,9 @@ This project aims to combine the technologies of Slow-Scan Television (SSTV) and
 ### Potential Impact
 This integration promises a unique and effective tool for ecologists, conservationists, and amateur radio enthusiasts, bridging technology with nature conservation.
 
+### Resources
+- **SSTV Overview**: https://hackaday.com/tag/sstv/
+- **ESP32 SSTV**: https://blog.dzl.dk/2022/09/14/stand-alone-sstv-camera/
+- **ESP32 Camera Trap**: https://starairvision.com/esp32-cam-motion-camera-with-date-and-time/
+- **SSTV Arduino**: https://github.com/SSTV-Encoder-EA4RCT/SSTV-Arduino-Scottie1
+
