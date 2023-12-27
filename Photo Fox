@@ -1,0 +1,5 @@
+## Photo Fox
+
+### Features
+- Allows the hunter to capture an image on the fox via a dtmf signal
+- DTMF triggers for viewing the last image and past x number of images via sstv
